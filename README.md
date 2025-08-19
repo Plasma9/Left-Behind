@@ -1,4 +1,4 @@
-# Left-Behind
+# Left Behind
 This repository contains my simple terminal game made with c++.
 
 The game is unfinished and still in early development.
